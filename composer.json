@@ -12,7 +12,6 @@
     "homepage": "https://github.com/LifeOnScreen/laravel-quickbooks",
     "keywords": ["Laravel", "laravel-quickbooks"],
     "require": {
-        "illuminate/support": "~5",
         "quickbooks/v3-php-sdk": "^5.0.3"
     },
     "require-dev": {
